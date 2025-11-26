@@ -4,17 +4,17 @@
     "url": "https://trillocentroelearning.com/",
     "icon": "https://icons.duckduckgo.com/ip3/trillocentroelearning.com.ico",
     "slug": "trillo-centro-e-learning",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1358,
-    "timeDay": 6245,
-    "timeWeek": 1384,
-    "timeMonth": 1115,
-    "timeYear": 1358,
+    "time": 1378,
+    "timeDay": 6164,
+    "timeWeek": 1953,
+    "timeMonth": 1228,
+    "timeYear": 1378,
     "dailyMinutesDown": {}
   }
 ]
